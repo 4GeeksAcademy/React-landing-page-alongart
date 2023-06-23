@@ -23,3 +23,8 @@ navbar-toggler-border-color {
     color:white;
     border-color: white;
 } */
+
+body {
+    display: flex;
+}
+
