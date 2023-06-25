@@ -24,7 +24,11 @@ navbar-toggler-border-color {
     border-color: white;
 } */
 
-body {
+/* body {
     display: flex;
+} */
+
+.Home {
+    min-height: 100vh;
 }
 

@@ -11,9 +11,10 @@ import Footer from "./Footer";
 const Home = () => {
 	return (
 		<>
+		<div className="Home container-fluid">
 			<Navbar />
 			<Welcome />
-			<div className="container-fluid">
+			
 				<div className="row mt-2 p-3">
 					<Card 
 						image="https://placehold.co/500x325/"
@@ -51,4 +52,3 @@ const Home = () => {
 
 export default Home;
 
-// where to add variables to use in components?
